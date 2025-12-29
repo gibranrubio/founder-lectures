@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Founder Lectures</title>
+  <link>https://founderlectures.com/</link>
+  <description>One builder teaches what they are deep in right now. Austin.</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 29 Dec 2025 17:53:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Lecture 001: Finding your first real users</title>
+    <link>https://founderlectures.com/lecture-001.html</link>
+    <guid>https://founderlectures.com/lecture-001.html</guid>
+    <pubDate>Thu, 06 Feb 2025 18:00:00 +0000</pubDate>
+    <description>How the first customers actually appear, and why they are reachable before they are scalable.</description>
+  </item>
+
+</channel>
+</rss>
